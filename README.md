@@ -1,2 +1,2 @@
-# 20-Web-Projects-
+# 20-Web-Projects
 udemy course
