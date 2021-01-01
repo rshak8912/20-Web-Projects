@@ -90,6 +90,7 @@ function checkOrder() {
     });
 }
 
+
 function addEventListeners() {
     const draggables = document.querySelectorAll('.draggable');
     const dragListItems = document.querySelectorAll('.draggable-list li');
